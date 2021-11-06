@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VitoSavo
 - 👀 I’m interested in Swift development
 - 🌱 I’m currently learning to code for Swift
-- 💞️ I’m looking to collaborate on I want to collaborate on learning Swift together
+- 💞️ I want to collaborate on learning Swift together
 - 📫 How to get to me in Telegram - @mr_Ruberoid
 
 <!---
